@@ -1,2 +1,2 @@
-def pofi(n):
-    return ["1","i","-1","-i"][n%4]
+def pofi(n) -> list[str]:
+  return ["1","i","-1","-i"][n%4]
