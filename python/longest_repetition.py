@@ -12,4 +12,3 @@ def longest_repetition(chars):
             max=len(arr[i])
             maxi=arr[i][0]
     return(maxi,max)
-}
